@@ -2,7 +2,7 @@
 
 # WHAT WILL YOU LEARN? 
 
-<img src="https://user-images.githubusercontent.com/27265918/187855388-82ce3d3a-2557-464e-ba07-cc990f287fb4.gif" alt="Computer man" style="width:375px;height:600px;">
+<img src="https://user-images.githubusercontent.com/27265918/187855388-82ce3d3a-2557-464e-ba07-cc990f287fb4.gif" alt="Computer man" style="width:76px;height:163px;">
 ![Simulator_Screen_Recording_-_iPhone_12_Pro_Max_-_2022-09-01_at_12_14_55_AdobeExpress](https://user-images.githubusercontent.com/27265918/187855388-82ce3d3a-2557-464e-ba07-cc990f287fb4.gif)
 
 
